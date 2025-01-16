@@ -111,7 +111,7 @@ fun Bmi(modifier: Modifier = Modifier) {
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun BmiPreview() {
     BodyMassIndexTheme {
         Bmi()
     }
