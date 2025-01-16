@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             BodyMassIndexTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Test",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
